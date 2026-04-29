@@ -1,6 +1,6 @@
 # All Restaurants in Fort Collins-Loveland (Metro), Colorado, US
 
-> Free BeamStation sample export with 49 rows and masked direct-contact fields.
+> Free BeamStation sample export with 74 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `582127` |
 | Location | Fort Collins-Loveland, CO |
 | Category | Restaurants |
-| Full dataset size | 494 records |
-| Free sample size | 49 records (9.92%) |
-| Last export | 2026-04-21T21:03:14.367837+00:00 |
+| Full dataset size | 749 records |
+| Free sample size | 74 records (9.88%) |
+| Last export | 2026-04-28T22:53:33.642798+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-collins-loveland-metro-colorado-us-sample-582127/releases/download/sample-latest/beamstation_582127_restaurants-us-fortcollinslovelandco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
