@@ -1,12 +1,12 @@
 {
-  "export_job_id": "69e1e8ab-9176-4aa9-8045-2b4f3d6d3338",
+  "export_job_id": "bd6982ce-8744-47e7-9e53-56642c751e78",
   "id_short": 582127,
-  "published_at": "2026-04-29T07:45:29Z",
+  "published_at": "2026-05-08T07:06:40Z",
   "repo_name": "all-restaurants-in-fort-collins-loveland-metro-colorado-us-sample-582127",
   "sample_asset_name": "beamstation_582127_restaurants-us-fortcollinslovelandco_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/582127/beamstation_582127_restaurants-us-fortcollinslovelandco_SAMPLE_DIST.csv",
-  "sample_records": 74,
-  "sample_sha256": "adb07100abeec40e3de000b873e612b995c67807dbfbb2eea2b4d05f9bb1616f",
-  "sample_size_bytes": 241628,
-  "total_records": 749
+  "sample_records": 81,
+  "sample_sha256": "6ab5465d0f973a4d53cd108672f7f96f7a6318105a788e358462dfe7e8fa5c85",
+  "sample_size_bytes": 315538,
+  "total_records": 816
 }
